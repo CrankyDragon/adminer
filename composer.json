@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "email": "jakub@vrana.cz", 
+            "name": "Jakub Vrána"
+        }
+    ], 
+    "name": "vrana/adminer", 
+    "repositories": [
+        {
+            "type": "vcs", 
+            "url": "git://github.com/vrana/adminer"
+        }
+    ]
+}
